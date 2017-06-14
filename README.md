@@ -8,7 +8,10 @@ Monokai Pro is a color scheme and customized user interface theme for Sublime Te
 
 ### ☞ How to install free evaluation for Sublime Text:
 
-`Package Control ‣ Install Package ‣ Theme - Monokai Pro`
+```
+1. Package Control ‣ Install Package ‣ Theme - Monokai Pro
+2. Quick panel ‣ Monokai Pro: select theme
+```
 
 Find out more here: [www.monokai.pro](https://www.monokai.pro)
 
