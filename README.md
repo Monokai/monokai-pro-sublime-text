@@ -16,3 +16,25 @@ Monokai Pro is a color scheme and customized user interface theme for Visual Stu
 Find out more here: [www.monokai.pro](https://www.monokai.pro)
 
 ![Monokai Pro](https://raw.githubusercontent.com/Monokai/monokai-pro-sublime-text/master/img/monokai-pro.png)
+
+## Supported plugins
+
+### Sublime Linter
+
+```
+Command Palette ‣ SublimeLinter: Choose Gutter Theme ‣ Monokai Pro
+```
+
+You need to manually reselect the SublimeLinter gutter theme whenever you switch to a new Monokai Pro filter.
+
+### GitGutter
+
+Place this in your GitGutter User preferences:
+
+```
+{
+	"theme": "Monokai Pro.gitgutter-theme"
+}
+```
+
+It will automatically match the gutter icon colors to the selected color filter of Monokai Pro.

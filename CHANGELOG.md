@@ -1,5 +1,13 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.1 (21-09-17)
+
+- [new] sql icon
+- [new] git gutter color definitions
+- [new] git gutter icons
+- [fix] automatic sublime linter colors
+- [fix] various syntax highlighting fixes
+
 ## 1.1.0 (30-08-17)
 
 - [new] scope selectors rewrite for better syntax highlighting in more languages
