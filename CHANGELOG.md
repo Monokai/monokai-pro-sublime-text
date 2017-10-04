@@ -1,5 +1,10 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.2 (04-10-17)
+
+- [new] csv icon
+- [new] markdown hard line break highlighting
+
 ## 1.1.1 (21-09-17)
 
 - [new] sql icon
