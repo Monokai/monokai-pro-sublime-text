@@ -1,5 +1,10 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.3 (07-10-17)
+
+- [fix] default colors for "source" and "text" scopes (fixes dev build 3147 changes)
+- [fix] key constants highlighting
+
 ## 1.1.2 (04-10-17)
 
 - [new] csv icon
