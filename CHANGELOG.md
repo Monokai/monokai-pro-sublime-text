@@ -1,5 +1,9 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.4 (09-10-17)
+
+- [fix] open monokai.pro url fix
+
 ## 1.1.3 (07-10-17)
 
 - [fix] default colors for "source" and "text" scopes (fixes dev build 3147 changes)
