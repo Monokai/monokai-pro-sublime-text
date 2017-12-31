@@ -1,5 +1,16 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.5 (31-12-17)
+
+- [new] handlebars icon
+- [fix] default command palette font size set to 0, which doesn't cause a bug that leads to the command palette being too small (can be overridden by "monokai_pro_panel_font_size")
+- [fix] latex invisible '3f' math prefix fix
+- [fix] invisibles color fix in dev build
+- [fix] sass / scss syntax highlighting updates
+- [fix] ruby syntax highlighting updates
+- [fix] react syntax highlighting updates
+- [fix] c++ syntax highlighting updates
+
 ## 1.1.4 (09-10-17)
 
 - [fix] open monokai.pro url fix
