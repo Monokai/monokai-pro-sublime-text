@@ -1,5 +1,17 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.6 (11-04-18)
+
+- [fix] sublime-linter gutter theme definition
+- [fix] embedded entities fix
+- [fix] invisibles a bit less prominent
+- [new] git status syntax highlighting
+- [new] square selections in dev build
+- [new] region.colorish definitions
+- [new] pug icon
+- [new] elixir icon
+- [new] graphql icon
+
 ## 1.1.5 (31-12-17)
 
 - [new] handlebars icon
