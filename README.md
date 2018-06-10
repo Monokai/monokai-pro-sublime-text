@@ -32,7 +32,7 @@ Place this in your Sublime Linter User preferences:
 
 ```
 {
-	"theme": "Monokai Pro.gutter-theme",
+	"gutter_theme": "Packages/Theme - Monokai Pro/Monokai Pro.gutter-theme",
 	"styles": [
 		{
 			"mark_style": "none",
@@ -64,7 +64,12 @@ Place this in your GitGutter User preferences:
 
 ```
 {
-	"theme": "Packages/Theme - Monokai Pro/Monokai Pro.gitgutter-theme"
+	"theme": "Monokai Pro.gitgutter-theme",
+	"protected_regions": [
+		"sublimelinter-warning-gutter-marks",
+		"sublimelinter-error-gutter-marks",
+		"sublime_linter.protected_regions"
+	]
 }
 ```
 

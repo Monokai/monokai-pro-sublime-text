@@ -1,5 +1,17 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.7 (10-06-18)
+
+- [fix] ruby syntax highlighting fixes
+- [fix] javascript class name colors
+- [fix] github icon
+- [fix] go icon
+- [new] npm icon
+- [new] angular icon
+- [new] erlang icon
+- [new] typescript icon
+- [new] reason icon
+
 ## 1.1.6 (11-04-18)
 
 - [fix] sublime-linter gutter theme definition
