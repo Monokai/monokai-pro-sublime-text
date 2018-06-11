@@ -1,5 +1,9 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.8 (11-06-18)
+
+- [fix] reverted highlighting class scopes
+
 ## 1.1.7 (10-06-18)
 
 - [fix] ruby syntax highlighting fixes
