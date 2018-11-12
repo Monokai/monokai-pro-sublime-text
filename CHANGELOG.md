@@ -1,5 +1,18 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.9 (12-11-18)
+
+- [fix] title bar has same color as background when ui is minimal
+- [fix] SCSS updates
+- [fix] small user interface tweaks
+- [fix] latex citation constant highlighting
+- [fix] php constant highlighting
+- [new] folder duplicate icon
+- [new] folder loading icon
+- [new] todo icon
+- [new] julia icon
+- [new] fortran icon
+
 ## 1.1.8 (11-06-18)
 
 - [fix] reverted highlighting class scopes
