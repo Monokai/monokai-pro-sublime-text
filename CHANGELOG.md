@@ -1,5 +1,14 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.10 (18-02-19)
+
+- [fix] fixed function arguments color in c++
+- [fix] markup_style fill colors for sublime linter
+- [new] added terraform icon
+- [new] changed git icon from octocat to official git icon
+- [new] switched to new color scheme syntax
+- [new] added diff gutter colors
+
 ## 1.1.9 (12-11-18)
 
 - [fix] title bar has same color as background when ui is minimal
