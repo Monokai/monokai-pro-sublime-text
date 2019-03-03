@@ -1,5 +1,10 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.11 (03-03-19)
+
+- [fix] italics are back
+- [fix] c++ syntax fixes
+
 ## 1.1.10 (18-02-19)
 
 - [fix] fixed function arguments color in c++
