@@ -1,5 +1,12 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.12 (09-04-19)
+
+- [new] diff icons in sidebar
+- [new] line width of diff indicator in gutter
+- [new] version control system icon in footer
+- [fix] background colors of build and find results
+
 ## 1.1.11 (03-03-19)
 
 - [fix] italics are back
