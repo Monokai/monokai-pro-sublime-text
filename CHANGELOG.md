@@ -1,5 +1,11 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.13 (26-04-19)
+
+- [new] font size of labels via setting "monokai_pro_label_font_size"
+- [fix] lighter block cursor in vintage mode
+- [fix] julia icon fix
+
 ## 1.1.12 (09-04-19)
 
 - [new] diff icons in sidebar
