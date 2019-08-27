@@ -13,7 +13,7 @@ Monokai Pro is a color scheme, customized user interface theme and complete icon
 2. Command Palette ‣ Monokai Pro: select theme
 ```
 
-Find out more here: [www.monokai.pro](https://www.monokai.pro)
+Find out more here: [monokai.pro](https://monokai.pro)
 
 ![Monokai Pro](https://raw.githubusercontent.com/Monokai/monokai-pro-sublime-text/master/img/monokai-pro.png)
 
@@ -52,23 +52,6 @@ Place this in your Sublime Linter User preferences:
 				"error"
 			]
 		}
-	]
-}
-```
-
-It will automatically match the gutter icon colors to the selected color filter of Monokai Pro.
-
-### GitGutter
-
-Place this in your GitGutter User preferences:
-
-```
-{
-	"theme": "Monokai Pro.gitgutter-theme",
-	"protected_regions": [
-		"sublimelinter-warning-gutter-marks",
-		"sublimelinter-error-gutter-marks",
-		"sublime_linter.protected_regions"
 	]
 }
 ```

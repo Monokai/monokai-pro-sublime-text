@@ -1,5 +1,12 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.14 (24-08-19)
+
+- [new] display headers in the sidebar via "monokai_pro_sidebar_headings"
+- [new] stylus icon
+- [fix] react icon for TypeScriptReact source
+- [fix] cls python variable color
+
 ## 1.1.13 (26-04-19)
 
 - [new] font size of labels via setting "monokai_pro_label_font_size"
