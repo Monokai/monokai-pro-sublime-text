@@ -1,5 +1,12 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.15 (17-02-20)
+
+- [new] dropdown buttons on search input fields
+- [new] rust syntax highlighting updates
+- [new] toml icon
+- [new] dart icon
+
 ## 1.1.14 (24-08-19)
 
 - [new] display headers in the sidebar via "monokai_pro_sidebar_headings"
