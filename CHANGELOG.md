@@ -1,5 +1,16 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.16 (06-06-20)
+
+- [new] haxe icon
+- [new] elm icon
+- [new] ST4 use git ignore icon
+- [new] ST4 toggle sidebar icon
+- [fix] elm highlight improvements
+- [fix] python highlight improvements
+- [fix] css animation keyframe color
+- [fix] constant variable highlight
+
 ## 1.1.15 (17-02-20)
 
 - [new] dropdown buttons on search input fields
