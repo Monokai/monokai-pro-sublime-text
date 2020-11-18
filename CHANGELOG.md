@@ -1,5 +1,12 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.18 (18-11-20)
+
+- [new] st4: support for `show_tab_close_buttons_on_left`
+- [new] crystal icon
+- [fix] closing quotes in html attributes
+- [fix] ruby heredoc fixes
+
 ## 1.1.17 (09-06-20)
 
 - [fix] constant variable highlighting
@@ -24,14 +31,14 @@
 
 ## 1.1.14 (24-08-19)
 
-- [new] display headers in the sidebar via "monokai_pro_sidebar_headings"
+- [new] display headers in the sidebar via `monokai_pro_sidebar_headings`
 - [new] stylus icon
 - [fix] react icon for TypeScriptReact source
 - [fix] cls python variable color
 
 ## 1.1.13 (26-04-19)
 
-- [new] font size of labels via setting "monokai_pro_label_font_size"
+- [new] font size of labels via setting `monokai_pro_label_font_size`
 - [fix] lighter block cursor in vintage mode
 - [fix] julia icon fix
 
@@ -100,7 +107,7 @@
 ## 1.1.5 (31-12-17)
 
 - [new] handlebars icon
-- [fix] default command palette font size set to 0, which doesn't cause a bug that leads to the command palette being too small (can be overridden by "monokai_pro_panel_font_size")
+- [fix] default command palette font size set to 0, which doesn't cause a bug that leads to the command palette being too small (can be overridden by `monokai_pro_panel_font_size`)
 - [fix] latex invisible '3f' math prefix fix
 - [fix] invisibles color fix in dev build
 - [fix] sass / scss syntax highlighting updates
@@ -114,7 +121,7 @@
 
 ## 1.1.3 (07-10-17)
 
-- [fix] default colors for "source" and "text" scopes (fixes dev build 3147 changes)
+- [fix] default colors for `source` and `text` scopes (fixes dev build 3147 changes)
 - [fix] key constants highlighting
 
 ## 1.1.2 (04-10-17)
@@ -135,8 +142,8 @@
 - [new] scope selectors rewrite for better syntax highlighting in more languages
 - [new] icon and syntax highlighting for restructuredtext
 - [new] bold & italic in markdown and other markup languages
-- [new] option "monokai_pro_style_title_bar" (default false) for integrated title bar (dev channel only)
-- [new] option "monokai_pro_panel_font_size" (default 13) for changing text size in quick panels (dev channel only)
+- [new] option `monokai_pro_style_title_bar` (default false) for integrated title bar (dev channel only)
+- [new] option `monokai_pro_panel_font_size` (default 13) for changing text size in quick panels (dev channel only)
 - [fix] slightly more contrast for all themes
 - [fix] better alignment of icons
 
