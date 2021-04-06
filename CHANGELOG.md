@@ -1,5 +1,11 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.19 (06-04-21)
+
+- [fix] scroll bar corner color
+- [fix] st4: link colors in command palette
+- [fix] ruby function and class declarations match end block color
+
 ## 1.1.18 (18-11-20)
 
 - [new] st4: support for `show_tab_close_buttons_on_left`
