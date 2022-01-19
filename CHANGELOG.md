@@ -1,5 +1,13 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.20 (19-01-22)
+
+- [fix] JSON key / value colors
+- [fix] update / about dialog contrast
+- [fix] ruby module color
+- [fix] c placeholders color
+- [new] inactive sheet color
+
 ## 1.1.19 (06-04-21)
 
 - [fix] scroll bar corner color
