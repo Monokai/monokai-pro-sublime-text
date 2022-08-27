@@ -1,5 +1,16 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.1.21 (27-08-22)
+
+- [new] added hare icon
+- [new] invalid code styling
+- [new] autocomplete popup styling
+- [fix] when sidebar headers are disabled, first file in sidebar vertically aligns with tabs
+- [fix] control panel color
+- [fix] quick panel styling
+- [fix] button tooltip styling
+- [fix] switch project panel styling
+
 ## 1.1.20 (19-01-22)
 
 - [fix] JSON key / value colors
