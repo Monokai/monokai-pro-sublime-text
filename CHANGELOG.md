@@ -1,5 +1,10 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.2.0 (27-11-22)
+
+- [fix] yaml key syntax highlighting
+- [fix] active indent guide color
+
 ## 1.1.21 (27-08-22)
 
 - [new] added hare icon
