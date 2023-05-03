@@ -1,5 +1,9 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.2.1 (03-05-23)
+
+- [fix] markdown punctuation in links
+
 ## 1.2.0 (27-11-22)
 
 - [fix] yaml key syntax highlighting
