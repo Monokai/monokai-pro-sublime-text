@@ -1,5 +1,11 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.2.2 (20-12-23)
+
+- [new] astro icon
+- [new] mdx icon
+- [fix] various color fixes
+
 ## 1.2.1 (03-05-23)
 
 - [fix] markdown punctuation in links
