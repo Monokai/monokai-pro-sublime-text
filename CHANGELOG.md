@@ -1,5 +1,9 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.3.1 (18-04-24)
+
+- [fix] various file icon syntax scoping fixes
+
 ## 1.3.0 (17-04-24)
 
 - [new] adonisjs icon
