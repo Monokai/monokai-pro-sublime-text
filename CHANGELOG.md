@@ -1,5 +1,9 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 1.3.2 (21-04-24)
+
+- [new] gulpfile icon
+
 ## 1.3.1 (18-04-24)
 
 - [fix] various file icon syntax scoping fixes
