@@ -1,5 +1,15 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.0.0 (23-10-24)
+
+- [new] Monokai Pro Light
+- [new] Monokai Pro Light (filter Sun)
+- [new] next.config.ts icon
+- [new] bun.lockb icon
+- [new] kotlin icon
+- [fix] julia syntax highlighting scope
+- [fix] scala syntax highlighting scope
+
 ## 1.3.2 (21-04-24)
 
 - [new] gulpfile icon
