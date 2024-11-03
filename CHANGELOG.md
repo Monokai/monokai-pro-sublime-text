@@ -1,5 +1,9 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.0.2 (03-11-24)
+
+- [fix] UI tweaks
+
 ## 2.0.1 (24-10-24)
 
 - [fix] install message
