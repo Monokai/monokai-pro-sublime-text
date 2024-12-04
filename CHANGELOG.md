@@ -1,5 +1,10 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.0.3 (04-12-24)
+
+- [fix] rust improvements
+- [fix] html syntax highlighting scope
+
 ## 2.0.2 (03-11-24)
 
 - [fix] UI tweaks
