@@ -1,5 +1,11 @@
 # Monokai Pro for Sublime Text Changelog
 
+## 2.0.6 (15-01-25)
+
+- [fix] minimal UI padding fixes
+- [add] cuda c++ icons
+- [add] bun.lock icon
+
 ## 2.0.3 (04-12-24)
 
 - [fix] rust improvements
